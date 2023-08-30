@@ -1,2 +1,2 @@
 # MOEA
-A  series of algorithm for multi-objective optimization problem(MOP)
+A  series of algorithms for multi-objective optimization problem(MOP)
